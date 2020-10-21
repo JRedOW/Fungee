@@ -1,0 +1,27 @@
+{
+  "name": "fungee",
+  "version": "0.0.1",
+  "description": "A Befunge-93 Test Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "testCoverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRedOW/Fungee.git"
+  },
+  "keywords": [
+    "test",
+    "befunge"
+  ],
+  "author": "JRed",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/JRedOW/Fungee/issues"
+  },
+  "homepage": "https://github.com/JRedOW/Fungee#readme",
+  "devDependencies": {
+    "jest": "^26.6.0"
+  }
+}
